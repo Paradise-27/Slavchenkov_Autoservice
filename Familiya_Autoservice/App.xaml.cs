@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Familiya_Autoservice
+namespace Slavchenkov_Autoservice
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

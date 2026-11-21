@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
 
-namespace Familiya_Autoservice
+namespace Slavchenkov_Autoservice
 {
     internal class Manager
     {

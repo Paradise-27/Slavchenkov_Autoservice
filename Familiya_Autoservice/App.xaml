@@ -1,7 +1,7 @@
-﻿<Application x:Class="Familiya_Autoservice.App"
+﻿<Application x:Class="Slavchenkov_Autoservice.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Familiya_Autoservice"
+             xmlns:local="clr-namespace:Slavchenkov_Autoservice"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <Style TargetType="Button">
